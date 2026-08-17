@@ -32,7 +32,7 @@ Simulação de Trabalho: Praticar situações reais, como reuniões e apresenta�
 .
 4. Mentalidade de Aprendizado Contínuo
 As fontes ressaltam que trabalhar em equipe exige que o profissional seja adaptável. Frequentemente, é necessário aprender novas bibliotecas ou frameworks para atender a regras de negócio específicas do time, o que demonstra a importância da autonomia e da proatividade no ambiente ágil
-.Além disso, conversar com pessoas que já estão no mercado ajuda a entender o dia a dia real de diferentes carreiras e como os times operam na práticakk
+.Além disso, conversar com pessoas que já estão no mercado ajuda a entender o dia a dia real de diferentes carreiras e como os times operam na prática
    Principais termos que aprendi nas fontes(Pair Programming,Scrum,Open-source e Dailies).
    
     e
