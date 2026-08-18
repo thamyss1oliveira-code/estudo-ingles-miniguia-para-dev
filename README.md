@@ -34,4 +34,7 @@ Simulação de Trabalho: Praticar situações reais, como reuniões e apresenta�
 As fontes ressaltam que trabalhar em equipe exige que o profissional seja adaptável. Frequentemente, é necessário aprender novas bibliotecas ou frameworks para atender a regras de negócio específicas do time, o que demonstra a importância da autonomia e da proatividade no ambiente ágil
 .Além disso, conversar com pessoas que já estão no mercado ajuda a entender o dia a dia real de diferentes carreiras e como os times operam na prática
    Principais termos que aprendi nas fontes(Pair Programming,Scrum,Open-source e Dailies).
-   <img width="377" height="798" alt="image" src="https://github.com/user-attachments/assets/4f4f1ff5-52b2-41dc-a73b-de6757558600" />
+<img width="377" height="798" alt="image" src="https://github.com/user-attachments/assets/4f4f1ff5-52b2-41dc-a73b-de6757558600
+
+
+
